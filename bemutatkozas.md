@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Bemutatkozás"
 permalink: /bemutatkozas
+---
 
 **Bemutatkozás**
 
