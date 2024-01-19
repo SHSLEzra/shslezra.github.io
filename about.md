@@ -1,6 +1,6 @@
 layout: page
 title: "Bemutatkozás"
-permalink: /about
+permalink: /bemutatkozas
 
 **Bemutatkozás**
 
