@@ -58,9 +58,9 @@ minima:
 
 permalink: /:categories/:title
 
-categories: [fansub-alapok, formazas, idozites, karaoke]
+categories: [fansub_alapok, formazas, idozites, karaoke]
 
 header pages:
   - bemutatkozas.md
-#  - fansub_alapok.md
+  - fansub_alapok.md
   - fansub_guide.md
