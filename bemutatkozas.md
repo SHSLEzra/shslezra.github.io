@@ -3,9 +3,6 @@ layout: page
 title: "Bemutatkozás"
 permalink: /bemutatkozas
 ---
-
-**Bemutatkozás**
-
 Pár random érdekes fact, ami senkit sem érdekelt.
 – 175 cm / 48 kg
 – AnimeGun Sub vezető
