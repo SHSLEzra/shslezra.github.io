@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Fansubber útmutató (2022)"
+title: "Fansubber útmutató"
 permalink: /fansub_guide
-categories: [fansub, formazas, idozites, karaoke]
 ---
 
 2022 óta készülő útmutató a modern fansubolásról. További információkhoz olvasd el a bevezető cikket.  
@@ -24,11 +23,35 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
   {% endfor %}
 </ul>
 
+
 ## Formázási útmutató
 
+Jelenleg nem található cikk ebben a kategóriában.
 <ul>
   {% for post in site.posts reversed %}
 	{% if post.categories contains "formazas" %}
+		<li>
+		  <a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endif %}
+  {% endfor %}
+</ul>
+
+
+## Időzítési és karaoke készítési útmutató
+
+Jelenleg nem található cikk ebben a kategóriában.
+<ul>
+  {% for post in site.posts reversed %}
+	{% if post.categories contains "idozites" %}
+		<li>
+		  <a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endif %}
+  {% endfor %}
+	
+  {% for post in site.posts reversed %}
+	{% if post.categories contains "karaoke" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
