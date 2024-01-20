@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Főoldal"
+---
+
 Helló mindenkinek!
 
 

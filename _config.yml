@@ -61,6 +61,7 @@ permalink: /:categories/:title
 categories: [fansub_alapok, formazas, idozites, karaoke]
 
 header pages:
+  - index.md
   - bemutatkozas.md
   - fansub_alapok.md
   - fansub_guide.md
