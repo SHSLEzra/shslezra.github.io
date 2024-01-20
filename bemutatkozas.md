@@ -22,6 +22,6 @@ Pár random érdekes fact, ami senkit sem érdekelt.
 
 És ha már úgyis itt vagy ezen az oldalon, hadd hagyjak itt néhány linket:
 - [Ezra's Carrd Page](https://shslezra.carrd.co/)
-- [Ezra's | Fansubolás és egyebek](https://shslezra.wordpress.com/) - eme weboldal elődje
+- [Ezra's \| Fansubolás és egyebek](https://shslezra.wordpress.com/) - eme weboldal elődje
 - [Dreamcatcher](https://www.youtube.com/@Dreamcatcherofficial) - avagy fő szórakoztatóim a cikkek írása alatt
 - [86](https://myanimelist.net/anime/41457/86) - a talán leginkább megkedvelt sorozatom, amin dolgoztam
