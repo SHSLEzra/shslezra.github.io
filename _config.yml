@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 permalink: /:categories/:title
+
+categories: [fansub-alapok, formazas, idozites, karaoke]

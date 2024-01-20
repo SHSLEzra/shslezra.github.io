@@ -2,6 +2,7 @@
 layout: page
 title: "Fansubber útmutató (2022)"
 permalink: /fansub_guide
+categories: [formazas, idozites, karaoke]
 ---
 **Útmutató a fansuboláshoz – 2022**
 
