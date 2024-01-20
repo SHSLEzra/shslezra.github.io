@@ -1,6 +1,6 @@
 Helló mindenkinek!
 
-Ezra vagyok, eme blognak szerzője. Ha rólam jöttél volna olvasni, a [Bemutatkozás]({{ site.baseurl }}{% bemutatkozas.md %}) oldalon találsz rólam pár infót.
+Ezra vagyok, eme blognak szerzője. Ha rólam jöttél volna olvasni, a [Bemutatkozás]({% link bemutatkozas.md %}) oldalon találsz rólam pár infót.
 
 Néhány éve hirtelen ötlettől vezérelve úgy döntöttem, hogy a [régóta használt formázási útmutatóra](https://aegiformazas.wordpress.com/)
 már ráférne némi frissítés, ezért elkezdtem egy "modern" útmutatót hozzá.
