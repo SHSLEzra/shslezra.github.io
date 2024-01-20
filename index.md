@@ -1,8 +1,3 @@
----
-layout: home
-title: Főoldal
----
-
 Helló mindenkinek!
 
 
