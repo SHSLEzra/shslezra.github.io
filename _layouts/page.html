@@ -11,4 +11,13 @@ layout: base
     {{ content }}
   </div>
 
+{% for page in site.pages %}
+  {% if page.categories contains 'alapok' %}
+    <div class="item">
+      <h3>{{page.title}}</h3>
+      <p>{{page.description}}</p>
+    </div>
+  {% endif %}
+{% endfor %}
+
 </article>
