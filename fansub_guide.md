@@ -6,24 +6,20 @@ categories: [fansub, formazas, idozites, karaoke]
 ---
 
 2022 óta készülő útmutató a modern fansubolásról. További információkhoz olvasd el a bevezető cikket.
-
-Kezdőknek és másoknak kapcsolatépítéshez:
-
-Ha pedig személyesen engem akarsz zaklatni:
+Kezdőknek és másoknak kapcsolatépítéshez: [Magyar Fansub Közösség](https://discord.gg/gam4ZVWKvn)
+Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.ezra@gmail.com)
 
 
 **Legutolsó frissítés: 2024.01.20. - az oldal feltöltés alatt áll**
 
 
-# Cikkek / tartalomjegyzék
+## Cikkek / tartalomjegyzék
 
 <ul>
   {% for post in site.posts %}
-	{% if post.cathegories contains "fansub" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
-	{% endif %}
   {% endfor %}
 </ul>
 
