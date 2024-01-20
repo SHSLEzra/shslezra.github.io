@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Főoldal"
+layout: home
+title: Főoldal
 ---
 
 Helló mindenkinek!
