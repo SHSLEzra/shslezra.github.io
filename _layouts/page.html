@@ -11,11 +11,9 @@ layout: base
     {{ content }}
   </div>
 
-{% for p in site.pages %}
-   {% if p.categories contains page.category %}
-     * [{{ p.title }}]({{ p.url | absolute_url }})
-        <small>{{ p.excerpt }}</small>
-   {% endif %}
+{% for post in site.categories[page.category] %}
+  * [{{ post.title }}]({{ post.url | absolute_url }})  
+      <small>{{ post.excerpt }}</small>
 {% endfor %}
 
 </article>
