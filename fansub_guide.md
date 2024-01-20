@@ -16,18 +16,19 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
 
 <ul>
   {% for post in site.posts %}
+	{% if post.categories contains "fansub" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
+	{% endif %}
   {% endfor %}
 </ul>
-
 
 ## Formázási útmutató
 
 <ul>
   {% for post in site.posts %}
-	{% if post.cathegories contains "formazas" %}
+	{% if post.categories contains "formazas" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
