@@ -12,7 +12,7 @@ Azonban a későbbiekben talán hasznos lehet egy alternatív buildet alkalmazni
 kibányászni az éppen aktuálisan használt verziót. Többnyire ezek is érkeznek telepítővel, de akár portable programként is megtalálhatod néhányukat.
 
 Ha szerencsés vagy, az operációs rendszered magától fel fogja ismerni (esetleg ha telepítővel raktad fel az Aegisubot, akkor magától be fogja állítani, hogy a feliratokat, legyen szó .ass-ről vagy .srt-ről ez nyissa meg).  
-Ha ez nem történt meg, akkor állítsd be, hogy így legyen, vagyis az .ass és .srt fájlok alapértelmezett alkalmazása az Aegisbu legyen - amúgy sem kell nagyon mással megnyitnod a feliratokat.
+Ha ez nem történt meg, akkor állítsd be, hogy így legyen, vagyis az .ass és .srt fájlok alapértelmezett alkalmazása az Aegisub legyen - amúgy sem kell nagyon mással megnyitnod a feliratokat.
 
 Ezzel meg is volnánk, jöhet a munka!
 
