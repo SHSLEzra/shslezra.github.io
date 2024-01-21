@@ -57,19 +57,19 @@ mi történik a “nagyvilágban”, nem az, hogy megváltsam a világot.
 
 
 Ha esetleg az írás elakadna, vagy bármi más okból egyéb helyeken is olvasgatnál, ezeket ajánlom:
-– [Nihil által fordított formázás útmutató](https://aegiformazas.wordpress.com/) (kissé elavult, és ez a blog ennek leváltására íródik, de nem rossz)
+- [Nihil által fordított formázás útmutató](https://aegiformazas.wordpress.com/) (kissé elavult, és ez a blog ennek leváltására íródik, de nem rossz)
 	- [Unanimated oldala](https://unanimated.github.io/) (az előbbi eredetije angol nyelven; formázás, időzítés, scriptek írása)
-– [Formázás Adobe Illustratorben](https://aiformazas.weebly.com/#) (Cickány írása)
-– [Bibliotheca: Fansubber Kiskáté](https://biblioteca.riczroninfactories.eu/tag/fansubber-kiskate/) (néhány cikk Ricztől)
-– [Fansubbing guide](https://guideencodemoe-mkdocs.readthedocs.io/typesetting/aegisub/) (pár hasznos infó, szintén angolul; főleg encodereknek)
-– [Zahuczky’s Site](https://zahuczky.com/) (Zahu saját scriptjei, KFX-útmutatója, továbbra is angolul)
+- [Formázás Adobe Illustratorben](https://aiformazas.weebly.com/#) (Cickány írása)
+- [Bibliotheca: Fansubber Kiskáté](https://biblioteca.riczroninfactories.eu/tag/fansubber-kiskate/) (néhány cikk Ricztől)
+- [Fansubbing guide](https://guideencodemoe-mkdocs.readthedocs.io/typesetting/aegisub/) (pár hasznos infó, szintén angolul; főleg encodereknek)
+- [Zahuczky’s Site](https://zahuczky.com/) (Zahu saját scriptjei, KFX-útmutatója, továbbra is angolul)
 
 
 És végül egy gyors köszönetnyilvánítás mindazoknak, akik nélkül nem lennék ott, ahol most:
-– “Réka” (aki 6 év kitartó munkájával rávett az első animémre)
-– Luna (aki akaratom ellenére betuszkolt lektornak)
-– Darky14 (aki támogatta elmebeteg ötleteimet)
-– Dysen (akinek köszönhetően elkezdtem formázni)
-– Zahuczky (aki a külföldi szférába berángatott, valamint karaoke tudásom "atyja")
-– a névtelen hős (aki összeismertetett egy csomó külföldi taggal, jó zenével látott el, és aki nem dobott ki fél év késés után sem)
-– és mindenki más, legyen magyar vagy külföldi, aki technikákat mutatott, bízott bennem, segített, motivált, tartotta bennem a lelket, és persze kajával látott el
+- “Réka” (aki 6 év kitartó munkájával rávett az első animémre)
+- Luna (aki akaratom ellenére betuszkolt lektornak)
+- Darky14 (aki támogatta elmebeteg ötleteimet)
+- Dysen (akinek köszönhetően elkezdtem formázni)
+- Zahuczky (aki a külföldi szférába berángatott, valamint karaoke tudásom "atyja")
+- a névtelen hős (aki összeismertetett egy csomó külföldi taggal, jó zenével látott el, és aki nem dobott ki fél év késés után sem)
+- és mindenki más, legyen magyar vagy külföldi, aki technikákat mutatott, bízott bennem, segített, motivált, tartotta bennem a lelket, és persze kajával látott el
