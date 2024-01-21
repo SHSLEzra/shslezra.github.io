@@ -28,7 +28,7 @@ PhosCity készített egy [újabb leírást](https://fansubbers.miraheze.org/wiki
 
 Általánosan az [Inkscape](https://inkscape.org/) alkalmazás az, amivel helyettesíteni szokás az Adobe Illustratort.
 Jelen tudásom szerint némi kényelmetlenség itt is adódik, akárcsak az Aegisub esetében: az Illustrator scriptjével szemben itt ki kell mentenünk a képet .svg formátumba,
-majd az [Svg2ass program](https://github.com/irrwahn/svg2ass) (webes változat [itt](https://qgustavor.github.io/svg2ass-gui/)) vagy az SVG2ASS script *(eltűnt)* segítségével átalakítani .ass formátumba.
+majd az [Svg2ass program](https://github.com/irrwahn/svg2ass) (webes változat [itt](https://qgustavor.github.io/svg2ass-gui/)) vagy az SVG2ASS script ([itt](https://phoscity.github.io/Aegisub-Scripts/svg2ass/) vagy DependencyControlban) segítségével átalakítani .ass formátumba.
 
 
 *(Egy rövid kitérőt tennék: ahogy az SVG2ASS script után kutattam, feltűnt egy utalás egy bizonyos tophf által készített scriptre, ami alapján mintázták az Adobe Illustratorhoz készült scriptet.
