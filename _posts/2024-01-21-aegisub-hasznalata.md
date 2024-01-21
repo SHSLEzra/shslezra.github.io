@@ -62,6 +62,7 @@ Ennek két fő alkalmazási módja az eredeti felirat megtartása a fordításba
 Itt egy példa a felirat felépítésére:
 
 ![Egy .ass felirat felépítésére példa](https://files.catbox.moe/b0qtiy.png)
+
 A sárga résszel kiemelt rész egy úgynevezett "tag" (erről mindjárt beszélünk); a sötétzöld az eredeti szöveg, míg a cián egy megjegyzés - adott esetben alternatív fordítási javaslat.
 
 
