@@ -6,7 +6,7 @@ categories: [fansub-alapok]
 Az Aegisub lesz a fő munkaeszközünk fordítás során. Kezdőként ugyanis ezzel fogjuk a forrásvideóból kinyerni a feliratfájlt, ebben fogjuk kicsit beállítani, majd természetesen a feliratot magát is ebben fogjuk lefordítani.
 
 ## Aegisub telepítése
-Erre a haladóknak szóló útmutatómban egy [egész cikket szenteltem]({% link fansub-guide/aegisub-verziok.md %}), itt azonban rövidre fogom.  
+Erre a haladóknak szóló útmutatómban egy [egész cikket szenteltem]({% link fansub/aegisub-verziok.md %}), itt azonban rövidre fogom.  
 Két úton indulhatsz el Aegi telepítésével: telepítheted a [hivatalos verziót](https://aegisub.org/) klasszikus módon - kezdőként (illetve fordítóként, lektorként) minden bizonnyal ez is megfelelő lesz.  
 Azonban a későbbiekben talán hasznos lehet egy alternatív buildet alkalmazni - ha itt vagy, valószínűleg beszélsz angolul, így nem fog problémát jelenteni [erről az oldalról](https://www.goodjobmedia.com/fansubbing/) az "Aegisub Builds" fül alól
 kibányászni az éppen aktuálisan használt verziót. Többnyire ezek is érkeznek telepítővel, de akár portable programként is megtalálhatod néhányukat.
