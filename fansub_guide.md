@@ -12,15 +12,15 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
 
 
 ## Cikkek / tartalomjegyzék
-<ul>
-  {% for post in site.posts | sort: "post.chapter" %}
-	{% if post.categories contains "fansub" %}
+
+
+<ol>
+  {% for post in site.posts | where: "categories", "fansub" | sort: 'chapter' %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.chapter }}. fejezet: {{ post.title }}</a>
 		</li>
-	{% endif %}
   {% endfor %}
-</ul>
+</ol>
 
 
 ## Formázási útmutató
