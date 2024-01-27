@@ -65,5 +65,15 @@ header pages:
   - fansub_alapok.md
   - fansub_guide.md
 
+
 collections:
   authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+      permalink: /authors/:slug
