@@ -3,6 +3,7 @@ layout: post
 title: "Publikálás 2.: Kiadási felületek"
 categories: [fansub_alapok]
 chapter: 4
+author: Ezra
 ---
 
 *Ez a cikk a korábbi [Kiadások típusai - előnyök és hátrányok]({% link _posts/2024-01-26-kiadasok.md %}) folytatása.*
