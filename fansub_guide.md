@@ -13,8 +13,7 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
 
 ## Cikkek / tartalomjegyzék
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
-
-<ul>
+<ol>
   {% for post in sorted_posts %}
 	{% if post.categories contains "fansub" %}
 		<li>
@@ -22,40 +21,47 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
 		</li>
 	{% endif %}
   {% endfor %}
-</ul>
+</ol>
 
 
 ## Formázási útmutató
 
 Jelenleg nem található cikk ebben a kategóriában.
-<ul>
-  {% for post in site.posts reversed %}
+
+{% assign sorted_posts = site.posts | sort: 'chapter' %}
+<ol>
+  {% for post in sorted_posts %}
 	{% if post.categories contains "formazas" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
 	{% endif %}
   {% endfor %}
-</ul>
+</ol>
 
 
 ## Időzítési és karaoke készítési útmutató
 
 Jelenleg nem található cikk ebben a kategóriában.
-<ul>
-  {% for post in site.posts reversed %}
+
+{% assign sorted_posts = site.posts | sort: 'chapter' %}
+<ol>
+  {% for post in sorted_posts %}
 	{% if post.categories contains "idozites" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
 	{% endif %}
   {% endfor %}
+</ol>
 	
-  {% for post in site.posts reversed %}
+{% assign sorted_posts = site.posts | sort: 'chapter' %}
+<ol>
+  {% for post in sorted_posts %}
 	{% if post.categories contains "karaoke" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
 	{% endif %}
   {% endfor %}
-</ul>
+</ol>

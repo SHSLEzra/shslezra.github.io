@@ -8,12 +8,13 @@ Akkor a legjobb helyre jöttél: eme rövid cikksorozatban összefoglalom, hogya
 honnan töltsd le az animéket, hogyan fordítsd le őket, hogyan és hol publikáld, és végül néhány kezdeti jótanács.
 Fogok beszélni a fansuboknál betöltött különböző feladatkörökről, és hogy mire van esetükben szükség.
 
-<ul>
-  {% for post in site.posts reversed %}
+{% assign sorted_posts = site.posts | sort: 'chapter' %}
+<ol>
+  {% for post in sorted_posts %}
 	{% if post.categories contains "fansub_alapok" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
 	{% endif %}
   {% endfor %}
-</ul>
+</ol>
