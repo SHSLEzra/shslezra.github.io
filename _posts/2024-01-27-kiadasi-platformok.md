@@ -39,7 +39,7 @@ Nem rossz választás, árazása is kifejezetten baráti tud lenni - főleg nagy
 
 Érdemes megjegyezni azonban, hogy ingyenes verzió esetén előfordult már, hogy letörölte a részeket jogi okokra hivatkozva. Ez, jelen tudásunk alapján, még nem történt meg fizetett tárhely esetén.
 
-### Microsoft OneDrive
+#### Microsoft OneDrive
 Mivel sokaknak van Microsoft 365 előfizetése, amely mellé némi tárhely is jár, sokan fordulnak efelé is.
 
 Kisebb tárhely esetén egyértelműen ez a nyerő díjazás - pláne ha van némi felesleges helyed az Office miatti előfizetéseden.
@@ -117,7 +117,7 @@ Ha a platform lehetővé teszi (pl. Nyaa), akár képet is mellékelhetsz a rés
 #### Címkék
 Ez utóbbit csak videómegosztókra. Nem érdemes elszállni velük, mert elég ronda lesz a videó leírása. A legjobb az, ha 1-2 sorba belefér.
 
-Amiket én szoktam: "magyar", "magyar felirattal", "felirat", "anime"; zen kívül érdemes a japán, az angol, és adott esetben a magyar címet is beleírni különféle formákban 
+Amiket én szoktam: "magyar", "magyar felirattal", "felirat", "anime"; ezen kívül érdemes a japán, az angol, és adott esetben a magyar címet is beleírni különféle formákban 
 (pl. az Eminence in Shadow címkéi közé mehet az "eminence in shadow", az "eminence" és a "shadow" is). Néhányan fontosabb szereplőket is megemlítenek, esetleg műfajokat.
 
 #### Utasítások, nyilatkozat a felhasználásról
