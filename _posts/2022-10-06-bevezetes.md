@@ -2,6 +2,7 @@
 layout: post
 title: Bevezetés
 categories: fansub
+chapter: 0
 ---
 
 Avagy: miért írom ezt, kiknek jó ez, és miért teljesen mindegy.

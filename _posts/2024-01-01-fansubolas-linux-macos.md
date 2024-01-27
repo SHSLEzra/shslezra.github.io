@@ -2,6 +2,7 @@
 layout: post
 title: "Fansubolás Windowson kívül: mivel?"
 categories: [fansub, fansub-tippek]
+chapter: 99
 ---
 
 Az elmúlt időben egyre több embert láttam, akik MacOS vagy Linux rendszeren szerettek volna fordításokat készíteni.
