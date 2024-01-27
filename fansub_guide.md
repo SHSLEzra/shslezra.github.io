@@ -16,7 +16,7 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
   {% for post in site.posts | sort: "chapter" %}
 	{% if post.categories contains "fansub" %}
 		<li>
-		  <a href="{{ post.url }}">{{ post.title }}</a>
+		  <a href="{{ post.url }}">{{ chapter }}. fejezet: {{ post.title }}</a>
 		</li>
 	{% endif %}
   {% endfor %}
