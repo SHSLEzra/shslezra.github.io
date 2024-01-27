@@ -2,6 +2,7 @@
 layout: post
 title: "Aegisub használata - az alapok"
 categories: [fansub_alapok]
+chapter: 2
 ---
 Az Aegisub lesz a fő munkaeszközünk fordítás során. Kezdőként ugyanis ezzel fogjuk a forrásvideóból kinyerni a feliratfájlt, ebben fogjuk kicsit beállítani, majd természetesen a feliratot magát is ebben fogjuk lefordítani.
 
