@@ -1,5 +1,4 @@
 ---
-short_name: nihil
+layout: page
 name: Nihil
-teams: Anime Sekai Team
 ---
