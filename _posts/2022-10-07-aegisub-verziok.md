@@ -2,7 +2,7 @@
 layout: post
 title: "Aegisub verziók: mi a különbség, és kinek fontos?"
 categories: [fansub]
-chapter: 30
+chapter: 1
 ---
 
 Kezdjük egyből az elején: *mégis milyen verziók lennének?*  
