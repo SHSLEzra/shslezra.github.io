@@ -64,3 +64,6 @@ header pages:
   - bemutatkozas.md
   - fansub_alapok.md
   - fansub_guide.md
+
+collections:
+  authors:
