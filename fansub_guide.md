@@ -12,9 +12,8 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
 
 
 ## Cikkek / tartalomjegyzék
-
 <ul>
-  {% for post in site.posts reversed %}
+  {% for post in site.posts | sort: "chapter" %}
 	{% if post.categories contains "fansub" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
