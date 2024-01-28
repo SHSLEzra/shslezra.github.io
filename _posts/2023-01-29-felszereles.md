@@ -2,7 +2,7 @@
 layout: post
 title: "Felszerelés és egyéb útmutatók"
 categories: [fansub, formazas]
-chapter: 0.1
+chapter: 0.5
 author: Ezra
 ---
 
