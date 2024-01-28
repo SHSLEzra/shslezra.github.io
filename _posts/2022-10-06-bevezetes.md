@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Bevezetés
-categories: fansub
+categories: [fansub]
+tags: [technikai]
 chapter: 0
 ---
 

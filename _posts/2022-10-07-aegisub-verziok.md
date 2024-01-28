@@ -2,6 +2,7 @@
 layout: post
 title: "Aegisub verziók: mi a különbség, és kinek fontos?"
 categories: [fansub]
+tags: [technikai]
 chapter: 1
 ---
 

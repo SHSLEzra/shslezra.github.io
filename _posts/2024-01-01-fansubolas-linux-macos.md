@@ -2,6 +2,7 @@
 layout: post
 title: "Fansubolás Windowson kívül: mivel?"
 categories: [fansub, fansub-tippek]
+tags: [technikai]
 chapter: 99
 ---
 
