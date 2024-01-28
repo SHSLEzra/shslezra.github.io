@@ -4,9 +4,10 @@ title: "Fansubber útmutató"
 permalink: /fansub_guide
 ---
 
-2022 óta készülő útmutató a modern fansubolásról. További információkhoz olvasd el a bevezető cikket.  
+2022 óta folyamatosan készülő útmutató a modern fansubolásról. További információért olvasd el a bevezető cikket.  
 Kezdőknek és másoknak kapcsolatépítéshez: [Magyar Fansub Közösség](https://discord.gg/gam4ZVWKvn)  
-Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.ezra@gmail.com)
+
+**Szerzők:** Ezra, [Nihil]({%link _authors/nihil.md %})
 
 **Legutolsó frissítés: 2024.01.28. - az oldal feltöltés alatt áll**
 
