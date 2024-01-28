@@ -4,16 +4,22 @@ title: "Aegisub verziók: mi a különbség, és kinek fontos?"
 categories: [fansub]
 tags: [technikai]
 chapter: 1
+author: Ezra
 ---
 
 Kezdjük egyből az elején: *mégis milyen verziók lennének?*  
-A legfrissebb hivatalos verzió a [3.2.2](https://github.com/Aegisub/Aegisub), ami 2014 decemberében lett kiadva. Beláthatjuk, hogy talán vannak lemaradásai.
+A legfrissebb hivatalos verzió a [3.2.2](https://github.com/Aegisub/Aegisub), ami 2014 decemberében lett kiadva. Beláthatjuk, hogy talán vannak lemaradásai.  
+Egyébként a GitHubon is látható, hogy maga a kód is *évekkel ezelőtt* el lett hagyva.
+
+![Aegisub/Aegisub Github](https://files.catbox.moe/efwrug.png)
 
 Szerencsénkre azonban az Aegisub nyílt forráskódú program - azaz gyakorlatilag bárki belenyúlhat, és csinálhat vele valamit.  
 A külföldi fansubberek egy része pedig pont ezt csinálta. Van egy csomó fajta, én most csak néhány jelentőset emelnék ki.
 
 Van az úgynevezett [TypesettingTools](https://github.com/TypesettingTools/Aegisub) változat: ez egy stabilitásra fókuszáló változat, amibe csak a legfontosabb dolgokat teszik fel. Ha jól hallottam, a jövőben várható, hogy ez lesz a hivatalos build is.
-Ugyan folyamatosan karbantartott, rendes kiadás nincsen belőle, így ezt buildelni kell. Nem kifejezetten ajánlom, azonban fontossága miatt szerettem volna megemlíteni.
+Ugyan folyamatosan karbantartott, rendes kiadás nincsen belőle (illetve de: a hivatalos 3.2.2 2014-ből), így ezt buildelni kell. Nem kifejezetten ajánlom, azonban fontossága miatt szerettem volna megemlíteni.
+
+![A TypesettingTools változat](https://files.catbox.moe/zakqxm.png)
 
 Most nézzünk néhány olyat, amiket tényleg érdemes telepíteni:  
 Az egyik [Plorkyeran buildje](http://plorkyeran.com/aegisub/), azonban pár éve ennek a fejlesztése is leállt.  
@@ -22,6 +28,8 @@ Az egyik [Plorkyeran buildje](http://plorkyeran.com/aegisub/), azonban pár éve
 
 Jelen állás szerint a fenti, arch1t3cht által készített változat a “legfrissebb”, azonban hogy a cikk némileg jövőálló legyen:
 a Good Job! Media oldalán a [Fansubbing](https://www.goodjobmedia.com/fansubbing/) részen megtalálható az éppen aktuálisan legelterjedtebb verzió.
+
+![GJM-en elérhető a tényleg legfrissebb verzió](https://files.catbox.moe/pqj18c.png)
 
 Akkor térjünk vissza a címben feltett kérdésre.
 
