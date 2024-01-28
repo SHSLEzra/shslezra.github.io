@@ -4,6 +4,7 @@ title: Bevezetés
 categories: [fansub]
 tags: [technikai]
 chapter: 0
+author: Ezra
 ---
 
 Avagy: miért írom ezt, kiknek jó ez, és miért teljesen mindegy.

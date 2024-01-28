@@ -4,6 +4,7 @@ title: "Fansubolás Windowson kívül: mivel?"
 categories: [fansub, fansub-tippek]
 tags: [technikai]
 chapter: 99
+author: Ezra
 ---
 
 Az elmúlt időben egyre több embert láttam, akik MacOS vagy Linux rendszeren szerettek volna fordításokat készíteni.
