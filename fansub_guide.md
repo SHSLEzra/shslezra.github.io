@@ -8,14 +8,14 @@ permalink: /fansub_guide
 Kezdőknek és másoknak kapcsolatépítéshez: [Magyar Fansub Közösség](https://discord.gg/gam4ZVWKvn)  
 Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.ezra@gmail.com)
 
-**Legutolsó frissítés: 2024.01.20. - az oldal feltöltés alatt áll**
+**Legutolsó frissítés: 2024.01.28. - az oldal feltöltés alatt áll**
 
 
 ## Cikkek / tartalomjegyzék
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
 <ol>
   {% for post in sorted_posts %}
-	{% if post.categories contains "fansub" %}
+	{% if post.tags contains "technikai" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
@@ -25,13 +25,10 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
 
 
 ## Formázási útmutató
-
-Jelenleg nem található cikk ebben a kategóriában.
-
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
 <ol>
   {% for post in sorted_posts %}
-	{% if post.categories contains "formazas" %}
+	{% if post.tags contains "formazas" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
@@ -47,7 +44,7 @@ Jelenleg nem található cikk ebben a kategóriában.
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
 <ol>
   {% for post in sorted_posts %}
-	{% if post.categories contains "idozites" %}
+	{% if post.tags contains "idozites" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
@@ -58,7 +55,7 @@ Jelenleg nem található cikk ebben a kategóriában.
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
 <ol>
   {% for post in sorted_posts %}
-	{% if post.categories contains "karaoke" %}
+	{% if post.tags contains "karaoke" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
