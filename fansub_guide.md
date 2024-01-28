@@ -28,7 +28,7 @@ Ha pedig személyesen engem akarsz zaklatni: [shsl.ezra@gmail.com](mailto:shsl.e
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
 <ol>
   {% for post in sorted_posts %}
-	{% if post.tags contains "formazas" %}
+	{% if post.categories contains "formazas" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
@@ -44,7 +44,7 @@ Jelenleg nem található cikk ebben a kategóriában.
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
 <ol>
   {% for post in sorted_posts %}
-	{% if post.tags contains "idozites" %}
+	{% if post.categories contains "idozites" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
@@ -55,7 +55,7 @@ Jelenleg nem található cikk ebben a kategóriában.
 {% assign sorted_posts = site.posts | sort: 'chapter' %}
 <ol>
   {% for post in sorted_posts %}
-	{% if post.tags contains "karaoke" %}
+	{% if post.categories contains "karaoke" %}
 		<li>
 		  <a href="{{ post.url }}">{{ post.title }}</a>
 		</li>
