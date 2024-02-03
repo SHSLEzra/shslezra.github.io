@@ -39,7 +39,8 @@ Ezek a következők:
 **Szükséges tudás:** idegen nyelv (japán vagy angol), magyar nyelv
 
 Talán a legegyértelműbb pozíció: ő az, aki a forrásnyelvről a célnyelvre átírja a szövegeket.  
-A forrásnyelv célszerű esetben japán (illetve az adott médium nyelve, tehát donghuák esetében mandarin), azonban gyakrabban inkább angol. *(Találkoztam már olyannal, aki más köztes nyelvről fordított, pl. németről vagy oroszról, de ezt inkább kerüljük el.)*
+A forrásnyelv célszerű esetben japán (illetve az adott médium nyelve, tehát donghuák esetében mandarin), azonban gyakrabban inkább angol.  
+*(Találkoztam már olyannal, aki más köztes nyelvről fordított, pl. németről vagy oroszról, de ezt inkább kerüljük el.)*  
 A célnyelv (nálunk) egyértelműen a magyar.
 
 Noha a későbbiekben "nyersfordításként" (vagy célszerűbben "lektorálatlan fordításként") fogok hivatkozni a fordító által készített szövegre, azonban a fordító...
@@ -57,7 +58,7 @@ Legutolsó pontra szeretném külön felhívni a figyelmet: csapatmunka esetén 
 **Szükséges tudás:** idegen nyelv (japán vagy angol) és magyar nyelv *beható* ismerete
 
 A lektor az a személy, aki a fordító által készített nyersfordítást "végleges" szöveggé formálja, azt javítja vagy változtatja.  
-Éppen emiatt nem csupán nyelvtanilag kell toppon lennie - éppannyira, vagy talán *még inkább* tudnia kell idegen nyelven.
+Éppen emiatt nem csupán nyelvtanilag kell toppon lennie - éppannyira, vagy talán *még inkább* tudnia kell idegen nyelven, mint a fordítónak.
 
 *Egyébként a nálunk "lektorként" meghonosodott pozíció külföldön általában két külön embert fed: "Translation Checker" (TLC)-t, aki a fordítás pontosságáért felel; illetve "Editor" (ED)-t, aki a fordítás nyelvhelyességéért felel.
 Éppen ezért a lektorok feladata igencsak összetett.*
@@ -90,9 +91,10 @@ Sokan alábecsülik az időzítés fontosságát: azonban a túl hamar (vagy tú
 - 1080p monitor (legalább 20")
 - erősebb *asztali* számítógép (nem laptop; legalább 8 GB RAM, négymagos processzor, dedikált videókártya ajánlott)
 - **egér!**
+
 **Hasznos tudás:** Photoshop és Illustrator (vagy hasonló program) ismerete
 
-Feladata talán a legösszetettebb az összes pozíció közül. A képernyőn megjelenő szövegek elhelyezéséért felelős. Csapat döntésétől függően jeleket kihagyhat, egyszerűsíthet - tulajdonképpen majdnem mindig megtörténik bizonyos mértékig.
+Feladata talán a legösszetettebb az összes pozíció közül. A képernyőn megjelenő szövegek elhelyezéséért felelős. Csapat döntésétől függően jeleket kihagyhat, egyszerűsíthet - ez tulajdonképpen majdnem mindig megtörténik bizonyos mértékig.
 
 Ezen pozíciót gyakran "megosztják", azaz többen dolgoznak rajta egyszerre.
 
@@ -100,15 +102,17 @@ Ezen pozíciót gyakran "megosztják", azaz többen dolgoznak rajta egyszerre.
 
 
 ## Karaokekészítő
-**Szükséges idő:** néhány óra *általában szezononként* (effekt összetettségétől és betétdalok mennyiségétől függően)  
+**Szükséges idő:** néhány óra, *általában szezononként* (effekt összetettségétől és betétdalok mennyiségétől függően)  
 **Szükséges felszerelés:** formázóhoz hasonló erősségű laptop vagy asztali számítógép  
 **Ajánlott tudás:** formázási programozási alapismeretek (leggyakrabban lua, ritkábban Python)
 
-Openingekhez, endingekhez és betétdalokhoz dalszöveg (japán, magyar vagy mindkettő) elhelyezése és készítése.
-Ez tartalmazza a sorok beidőzítését (adott esetben szótagokét is), valamint az effekt elkészítését. Formázóhoz hasonlóan megosztható (időzítés / effekt készítése; vagy OP / ED külön készítő).  
-Ízléstől függően lehet egyszerű effekt, de elszállt is. Külföldi szférából indulva lassan átszivárog kizárólag a fordítás használata, de még mindkét helyen jelentősek a japán szöveggel ellátott effektek.
+Openingekhez, endingekhez és betétdalokhoz dalszöveg (japán, magyar vagy mindkettő) elhelyezése és készítése.  
+Ez tartalmazza a sorok beidőzítését (adott esetben szótagokét is), valamint az effekt elkészítését. Formázóhoz hasonlóan megosztható (időzítés / effekt készítése; vagy OP / ED külön készítő).
 
-Programozói tudás nem *szükséges*, azonban némileg összetettebb effekteknél ajánlott. Leggyakrabban használt programnyelv a lua, azonban ennek beható ismerete nem feltétlenül szükséges; az algoritmikus gondolkodás többségében kielégítő.
+Ízléstől függően lehet egyszerű effekt, de viszonylag összetett, akár elszállt is. Külföldi szférából indulva lassan átszivárog kizárólag a fordítás használata, de még mindkét helyen jelentősek a japán szöveggel ellátott effektek.
+
+Programozói tudás nem *szükséges*, azonban némileg összetettebb effekteknél ajánlott.
+A leggyakrabban használt programnyelv a [lua](https://www.lua.org/), azonban ennek beható ismerete nem feltétlenül szükséges; az algoritmikus gondolkodás többségében kielégítő.
 
 Alapokhoz és tananyagokhoz szintén ezen oldal [Fansubber útmutató]({% link fansub_guide.md %}) része nyújt segítséget.
 
@@ -117,13 +121,16 @@ Alapokhoz és tananyagokhoz szintén ezen oldal [Fansubber útmutató]({% link f
 **Szükséges idő részenként:** 20 perc - 2 óra (aktív) // 4-12 óra (inaktív)  
 **Ajánlott felszerelés:**
 - 1080p *színhű* monitor (lehetőleg IPS)
-- erős *asztali* számítógép (nem laptop; legalább 16 GB RAM, 64-bites négymagos processzor 4+ GHz, dedikált videókártya)
+- igen erős *asztali* számítógép (nem laptop; legalább 16 GB RAM, 64-bites négymagos processzor 4+ GHz, dedikált videókártya)
 - jelentősebb mennyiségű szabad tárhely (legalább 100-200 GB)
 **Hasznos tudás:** programozás (Python); ismeret videótömörítésről és azok által okozott jelenségekről
 
 Az egyik, ha nem a legtöbb technikai tudást igénylő pozíció.
 Feladata a lehető legjobb képi minőség előállítása, forrásvideó hibáinak kijavítása; legjobb minőségű hang társítása - valamint ennek *kezelhető méretű* tömörítése (20 perces rész esetén 5 GB alatt).  
 Adott esetben több nagyfelbontású és tömörítetlen fájl használatával dolgozik, ezért a szabad tárhely szükségessége.
+
+A videó kódolásához szükséges script megírása (aktív rész) általában egy-két órás feladat (illetve egy animén belül különböző részekre való átírása viszonylag egyszerű feladat);
+a videó kódolása (inaktív rész) azonban ennél sokkal több időt vesz igénybe - tulajdonképpen ezen rész miatt van szükség az erős számítógépre.
 
 Az itthoni közösségben létezése *ritka* - csupán néhány csapat alkalmazza őket (éppen a technikai összetettség miatt).
 
@@ -142,9 +149,10 @@ Ezért ezen útmutatóban a *korrektor* kifejezést a szöveget helyesírásilag
 A **korrektor** feladata nagyban hasonlít a lektoréra: azonban neki a forrásnyelvről való fordítás helyett (főleg) arra kell összpontosítania, hogy a végleges szövegnek legyen értelme; valamint helyesírásilag és nyelvhelyességileg kifogástalan legyen.  
 (Lásd: [Korrektúra](https://hu.wikipedia.org/wiki/Korrekt%C3%BAra) a Wikipédián.)
 
-Ezzel szemben az **ellenőr** a *teljes kiadást* ellenőrzi - tekinthetjük úgy, hogy a fentebb ecsetelt korrektor szerepkör kibővítése.  
-Érdemes ügyelnie a fordítási hibákra (is), azonban főleg arra, hogy az időzítés megfelelő legyen, ne legyen hibás vbagy kimaradó formázás (vagy ha jel kihagyásában egyezett meg a csapat, ne jelenjen meg semmi), az effektek a helyükön legyenek;
+Ezzel szemben az **ellenőr** a *teljes kiadást* ellenőrzi - tekinthetjük úgy, hogy a fentebb ecsetelt korrektori szerepkör kibővítése.  
+Érdemes ügyelnie a fordítási hibákra (is), azonban ami ennél jelentősebb különbség: figyel a *technikai* pozíciókra is a kiadásban -
+hogy az időzítés megfelelő legyen, ne legyen hibás vaagy kimaradó formázás (vagy ha jel kihagyásában egyezett meg a csapat, ott ne jelenjen meg semmi), az effektek a helyükön legyenek;
 valamint még technikaibb oldalról: ne hiányozzon a kiadásból egy betűtípus sem, és a videókódolás is kielégítő legyen.
 
 
-*A cikk [ezen útmutatót](https://guide.encode.moe/overview/roles.html) felhasználva, kiegészítve íródott.*
+*A cikk részben [ezen útmutatót](https://guide.encode.moe/overview/roles.html) felhasználva, kiegészítve íródott.*
