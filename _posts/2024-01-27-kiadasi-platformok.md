@@ -2,6 +2,7 @@
 layout: post
 title: "Publikálás 2.: Kiadási felületek"
 categories: [fansub_alapok]
+tags: [kezdetek]
 chapter: 4
 author: Ezra
 ---
