@@ -17,16 +17,16 @@ Az csak "hab a tortán", hogy valamikor talán egy általában fordítást végz
 De mégis mik azok, amelyek alapján feloszthatunk egy csapatot? Ki mit csinál? Ebben a cikkben ezt fogjuk kifejteni.
 
 ## Feladatkörök
-Két csoportba osztanám a betölthető feladatköröket: **szöveggel foglalkozókba**, akik a dialógusokért felelnek; illetve **technikaiba**, amely a videóért, illetve a megjelenésért általában felelnek.
+Két csoportra bontanám a betölthető feladatköröket: **szöveggel foglalkozókra**, akik a dialógusokért felelnek; illetve **technikaira**, amely a videóért, illetve a megjelenésért általában felelnek.
 
 Ezek a következők:
 
-\[Szöveg]
+#### Szöveggel foglalkozó pozíciók
 - Fordító
 - Lektor
 - Korrektor
 
-\[Technikai pozíciók]
+#### Technikai pozíciók
 - Időzítő
 - Formázó
 - Karaokekészítő
@@ -35,7 +35,7 @@ Ezek a következők:
 
 
 ## Fordító
-**Szükséges idő részenként:** 2-4 óra (szövegmennyiségtől, stílustól illetve gyakorlattól függően)
+**Szükséges idő részenként:** 2-4 óra (szövegmennyiségtől, stílustól illetve gyakorlattól függően)  
 **Szükséges tudás:** idegen nyelv (japán vagy angol), magyar nyelv
 
 Talán a legegyértelműbb pozíció: ő az, aki a forrásnyelvről a célnyelvre átírja a szövegeket.  
@@ -53,7 +53,7 @@ Legutolsó pontra szeretném külön felhívni a figyelmet: csapatmunka esetén 
 
 
 ## Lektor
-**Szükséges idő részenként:** 1-3 óra (szövegmennyiségtől, stílustól, fordítástól és gyakorlattól függően)
+**Szükséges idő részenként:** 1-3 óra (szövegmennyiségtől, stílustól, fordítástól és gyakorlattól függően)  
 **Szükséges tudás:** idegen nyelv (japán vagy angol) és magyar nyelv *beható* ismerete
 
 A lektor az a személy, aki a fordító által készített nyersfordítást "végleges" szöveggé formálja, azt javítja vagy változtatja.  
@@ -71,7 +71,7 @@ Mivel a fordító által elkövetett hibákért felelős, **mindenképpen külö
 
 
 ## Időzítő
-**Szükséges idő részenként:** 20-90 perc (szövegmennyiségtől függően)
+**Szükséges idő részenként:** 20-90 perc (szövegmennyiségtől függően)  
 **Szükséges felszerelés:** egér
 
 Ezen pozíciónak két típusa van. Egy időzítő...
@@ -85,7 +85,7 @@ Sokan alábecsülik az időzítés fontosságát: azonban a túl hamar (vagy tú
 
 
 ## Formázó
-**Szükséges idő részenként:** jelek nehézségétől, mennyiségétől, tapasztalattól (és formázók számától) függ; 20 perc - bármennyi
+**Szükséges idő részenként:** jelek nehézségétől, mennyiségétől, tapasztalattól (és formázók számától) függ; 20 perc - bármennyi  
 **Ajánlott felszerelés:**
 - 1080p monitor (legalább 20")
 - erősebb *asztali* számítógép (nem laptop; legalább 8 GB RAM, négymagos processzor, dedikált videókártya ajánlott)
@@ -100,8 +100,8 @@ Ezen pozíciót gyakran "megosztják", azaz többen dolgoznak rajta egyszerre.
 
 
 ## Karaokekészítő
-**Szükséges idő:** néhány óra *általában szezononként* (effekt összetettségétől és betétdalok mennyiségétől függően)
-**Szükséges felszerelés:** formázóhoz hasonló erősségű laptop vagy asztali számítógép
+**Szükséges idő:** néhány óra *általában szezononként* (effekt összetettségétől és betétdalok mennyiségétől függően)  
+**Szükséges felszerelés:** formázóhoz hasonló erősségű laptop vagy asztali számítógép  
 **Ajánlott tudás:** formázási programozási alapismeretek (leggyakrabban lua, ritkábban Python)
 
 Openingekhez, endingekhez és betétdalokhoz dalszöveg (japán, magyar vagy mindkettő) elhelyezése és készítése.
@@ -114,7 +114,7 @@ Alapokhoz és tananyagokhoz szintén ezen oldal [Fansubber útmutató]({% link f
 
 
 ## Videókódoló
-**Szükséges idő részenként:** 20 perc - 2 óra (aktív) // 4-12 óra (inaktív)
+**Szükséges idő részenként:** 20 perc - 2 óra (aktív) // 4-12 óra (inaktív)  
 **Ajánlott felszerelés:**
 - 1080p *színhű* monitor (lehetőleg IPS)
 - erős *asztali* számítógép (nem laptop; legalább 16 GB RAM, 64-bites négymagos processzor 4+ GHz, dedikált videókártya)
@@ -132,8 +132,8 @@ Angol nyelven az [IEW által készített guide.encode.moe oldalon](https://guide
 
 
 ## Ellenőr / korrektor
-**Szükséges idő részenként:** 2-3 óra
-**Ajánlott felszerelés (ellenőr):** 1080p monitor (legalább 20")
+**Szükséges idő részenként:** 2-3 óra  
+**Ajánlott felszerelés (ellenőr):** 1080p monitor (legalább 20")  
 **Szükséges tudás:** magyar nyelv és helyesírás *átható* ismerete; ellenőr: alapismeretek a fentebbi technikai pozíciókról
 
 Nincs egységes megegyezés afelől, hogy mit csinál egy ellenőr vagy egy korrektor (illetve arról sem, hogy melyik kifejezés a pontos).  
