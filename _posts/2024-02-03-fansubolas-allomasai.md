@@ -17,16 +17,15 @@ Az csak "hab a tortán", hogy valamikor talán egy általában fordítást végz
 De mégis mik azok, amelyek alapján feloszthatunk egy csapatot? Ki mit csinál? Ebben a cikkben ezt fogjuk kifejteni.
 
 ## Feladatkörök
-Két csoportra bontanám a betölthető feladatköröket: **szöveggel foglalkozókra**, akik a dialógusokért felelnek; illetve **technikaira**, amely a videóért, illetve a megjelenésért általában felelnek.
-
+Két csoportra bontanám a betölthető feladatköröket: **szöveggel foglalkozókra**, akik a dialógusokért felelnek; illetve **technikaira**, amely a videóért, illetve a megjelenésért általában felelnek.  
 Ezek a következők:
 
-#### Szöveggel foglalkozó pozíciók
+#### Szöveggel foglalkozó pozíciók:
 - Fordító
 - Lektor
 - Korrektor
 
-#### Technikai pozíciók
+#### Technikai pozíciók:
 - Időzítő
 - Formázó
 - Karaokekészítő
