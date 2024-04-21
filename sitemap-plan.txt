@@ -1,0 +1,47 @@
+Fansubolás kezdőknek
+- Fansub alapok / Kezdetek
+	- Forrás kiválasztása és letöltése
+	- Aegisub alapszintű használata
+	- Kiadási típusok
+	- Kiadási felületek
+- Csapatmunka
+	- Jellemző feladatkörök
+	- Munkamegosztási platformok
+	- Kapcsolattartás a nézőkkel
+	- Csapatvezetői jó tanácsok
+- Fordítás és lektorálás
+	- Félrefordítások elkerülése
+	- Ellenőrzés japán nyelvről
+	- Segítség a magyar nyelvhez
+	- Típushibák
+
+Útmutató a fansuboláshoz
+- Technikai írások
+	- Aegisub verziók
+	- Renderer
+	- Lejátszók, égetők
+	- Linux/macOS
+- Formázás és scriptek
+	- .ass tagek
+	- Aegisub ismeretek (menüsorok, ablakok, hotkeyek)
+	- Formázási alapismeretek (fade, blur, layer, formák)
+	- Jelek elhelyezése (sík és tér)
+	- Animáció/változó jelek (clip, \t)
+	- Mozgó jelek formázása (move, fbf, Mocha/Blender)
+	- Háttér kitakarása
+	- Megfelelő betűtípus kiválasztása
+	- Illustrator használata
+	- Scriptek (hosszabb)
+- Időzítés
+	- Időzítés alapjai, kulcskockák generálása
+	- Kézi időzítés
+	- TPP használata
+	- Karaoke (syl) időzítés
+- Karaoke és programozás
+	- Templaterek közötti különbségek
+	- Karaoke alapok
+	- Eltérés a sor által szabott korlátoktól: retime(), több sor
+	- Differenciálás: inline-fx, petzku's loadtags
+	- Programozás: code sorok, függvények írása
+	- Libek
+	- Scriptek írása, alapok
